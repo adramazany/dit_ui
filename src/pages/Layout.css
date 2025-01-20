@@ -1,0 +1,21 @@
+header{
+    /*background-color: Darkblue;*/
+    /*color: white;*/
+    font-size: 24px;
+    text-align: center;
+}
+
+nav{
+    background-color: darkgray;
+    color: white;
+}
+
+ul.menu li {
+    display:inline;
+    padding-right: 10px;
+}
+
+h1{
+    background: darkblue;
+    color: white;
+}
